@@ -1,0 +1,1 @@
+This is a port of Bowmasters from YouTube Playables done by me, break-core. All original credits for Bowmasters go to Playgendary for the original game copyright and Azur Games for the port of Bowmasters to Pixi JS
